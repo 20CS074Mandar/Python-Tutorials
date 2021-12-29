@@ -16,3 +16,6 @@ print("mystr.find() : ",mystr.find("is"))
 print(mystr.lower())
 print(mystr.upper())
 print(mystr.replace("is","are"),"\n")
+
+print("10".isnumeric())
+print(mystr.expandtabs(4))
